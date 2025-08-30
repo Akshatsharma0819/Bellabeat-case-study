@@ -34,5 +34,5 @@ Analyze Fitbit usage data to uncover trends in activity and sleep, then translat
 - `Presentation/` – slides 
 
 ## 👤 Author
-Akshat Sharma — Google Data Analytics Certificate
-Last modified - 30-08-2025
+- Akshat Sharma — Google Data Analytics Certificate
+- Last modified - 30-08-2025

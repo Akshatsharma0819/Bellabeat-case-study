@@ -27,11 +27,12 @@ Analyze Fitbit usage data to uncover trends in activity and sleep, then translat
 
 ## 📁 Repository Structure
 - `Business-Problem/` – problem_statement.md
-- `Data/Raw/` – optional samples
+- `Data/Raw/` – Raw data tables
 - `Data/Cleaned/` – final cleaned CSVs
 - `SQL/` – raw table creation scripts
 - `Visuals/` – PNG exports of Tableau charts
-- `Presentation/` – slides (coming soon)
+- `Presentation/` – slides 
 
 ## 👤 Author
 Akshat Sharma — Google Data Analytics Certificate
+Last modified - 30-08-2025
